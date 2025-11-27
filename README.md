@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I am a dedicated Software Engineering undergraduate currently studying at **UNIMAS**. I am passionate about **developing and maintaining mobile applications and web solutions**. I enjoy ensuring code quality and creating seamless user experiences across different platforms.
 
 * I’m currently looking for **Internship opportunities** (Start Date: 23/02/2026 - End Date: 07/08/2026)
@@ -18,7 +18,7 @@ I am a dedicated Software Engineering undergraduate currently studying at **UNIM
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 * **Mobile Development:** Flutter, Dart, Figma
 * **Languages:** Java, Python, C++
