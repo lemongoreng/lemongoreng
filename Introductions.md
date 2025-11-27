@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @lemongoreng
-- 🌱 I’m currently learning Sofware Engineering for my degree
-- ⚡ Fun fact: Lemons mmmm
+# Hi there! 👋 I'm Eamonn Nathanael
 
-<!---
-lemongoreng/lemongoreng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 Software Engineering Student at Universiti Malaysia Sarawak (UNIMAS)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eamonnn-nathanael-a21023261" target="_blank">
+    <img src="https://img.shields.io/badge/AVAILABLE%20FOR-INTERNSHIP-success?style=for-the-badge&logo=linkedin" alt="Internship"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+I am a dedicated Software Engineering undergraduate currently studying at **UNIMAS**. I am passionate about **developing and maintaining mobile applications and web solutions**. I enjoy ensuring code quality and creating seamless user experiences across different platforms.
+
+* I’m currently looking for **Internship opportunities** (Start Date: 23/02/2026 - End Date: 07/08/2026)
+* I’m currently learning **Flutter & Dart** for cross-platform mobile development.
+
+---
+
+### 🛠️ Technical Skills
+
+* **Mobile Development:** Flutter, Dart, Figma
+* **Languages:** Java, Python, C++
+* **Web Development:** HTML5, CSS3, JavaScript
+* **Databases:** MySQL
+* **Tools:** Git, VS Code
+
+---
