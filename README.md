@@ -4,7 +4,7 @@
 
   ### 🎓 Software Engineering Student at Universiti Malaysia Sarawak (UNIMAS)
 
-  <a href="https://www.linkedin.com/in/eamonnn-nathanael-a21023261" target="_blank">
+  <a href="https://www.linkedin.com/in/eamonnn-nathanael-jong-kwok-a21023261" target="_blank">
     <img src="https://img.shields.io/badge/AVAILABLE%20FOR-INTERNSHIP-success?style=for-the-badge&logo=linkedin" alt="Internship"/>
   </a>
 
