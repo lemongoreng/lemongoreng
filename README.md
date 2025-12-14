@@ -27,4 +27,4 @@ I am a dedicated Software Engineering undergraduate currently studying at **UNIM
 * **Tools:** Git, VS Code
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemongoreng&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
