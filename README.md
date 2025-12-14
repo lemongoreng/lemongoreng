@@ -1,12 +1,17 @@
-# Hi there! 👋 I'm Eamonn Nathanael
+<div align="center">
 
-### 🎓 Software Engineering Student at Universiti Malaysia Sarawak (UNIMAS)
+  # Hi there! 👋 I'm Eamonn Nathanael
 
-<p align="left">
+  ### 🎓 Software Engineering Student at Universiti Malaysia Sarawak (UNIMAS)
+
   <a href="https://www.linkedin.com/in/eamonnn-nathanael-a21023261" target="_blank">
     <img src="https://img.shields.io/badge/AVAILABLE%20FOR-INTERNSHIP-success?style=for-the-badge&logo=linkedin" alt="Internship"/>
   </a>
-</p>
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemongoreng&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <br/><br/>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemongoreng&layout=compact&theme=dracula" alt="Top Langs" />
+  </a>
+
+</div>
