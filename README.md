@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/badge/AVAILABLE%20FOR-INTERNSHIP-success?style=for-the-badge&logo=linkedin" alt="Internship"/>
   </a>
 
+  ### My Coding Pet 👾
+![Profile Gotchi](dist/pet.svg)
+
   <br/><br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
