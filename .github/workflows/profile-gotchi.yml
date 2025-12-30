@@ -17,7 +17,7 @@ jobs:
         uses: ThanhNguyxn/Git-Gotchi@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
+          username: ${{ lemongoreng }}
           # Optional: Advanced Configuration
           timezone: 'Asia/Singapore'               # Recommended for international users
           background_theme: 'cyberpunk'   # Options: 'minimal', 'cyberpunk', 'nature'
