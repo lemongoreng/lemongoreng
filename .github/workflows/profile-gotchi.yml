@@ -16,7 +16,7 @@ jobs:
       - name: Generate Pet 👾
         uses: ThanhNguyxn/Git-Gotchi@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ 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 }}
           username: ${{ lemongoreng }}
           # Optional: Advanced Configuration
           timezone: 'Asia/Singapore'               # Recommended for international users
