@@ -6,7 +6,7 @@
 
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 
-  ### 🧠 My "Top Skills" 
+  ### My "Top Skills" 
   *(According to GitHub, anyway)*
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
