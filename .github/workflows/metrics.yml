@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # 1. Base Stats (Commits, PRs, etc.)
-          base: header, activity, community
+          base: activity, community
           
           # 2. Most Used Languages
           plugin_languages: yes
