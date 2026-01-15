@@ -10,8 +10,12 @@
   *(According to GitHub, anyway)*
 
   <div align="center">
-  <img src="https://raw.githubusercontent.com/lemongoreng/lemongoreng/main/github-metrics.svg" alt="My Metrics" width="400">
-</div>
+    <img src="https://raw.githubusercontent.com/lemongoreng/lemongoreng/main/github-metrics.svg" alt="My Metrics" width="400">
+  </div>
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/lemongoreng/lemongoreng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </div>
   
   <br/><br/>
 
