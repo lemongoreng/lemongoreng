@@ -9,9 +9,9 @@
   ### My "Top Skills" 
   *(According to GitHub, anyway)*
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemongoreng&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
-  </a>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/lemongoreng/lemongoreng/main/github-metrics.svg" alt="My Metrics" width="400">
+</div>
   
   <br/><br/>
 
