@@ -1,8 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (once every 24 hours)
+  # Update daily
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run it manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
@@ -14,22 +13,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Your Info
           user: lemongoreng
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kuala_Lumpur
           
-          # This makes it look cool (Isometric Calendar)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # 1. Base Stats (Commits, PRs, etc.)
+          base: header, activity, community, repositories
           
-          # Top Languages
+          # 2. Most Used Languages
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css
-          plugin_languages_details: lines, percentage
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_limit: 8
+          
+          # 3. Activity (The 3D Calendar)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
